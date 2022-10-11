@@ -3,7 +3,7 @@ from __future__ import with_statement
 import setuptools
 
 requires = [
-    'flake8 > 5.0.4',
+    'flake8 >= 5.0.4',
 ]
 
 setuptools.setup(
